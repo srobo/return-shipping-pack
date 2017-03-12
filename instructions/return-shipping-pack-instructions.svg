@@ -188,11 +188,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="425.41724"
-     inkscape:cy="736.9972"
+     inkscape:zoom="1.979899"
+     inkscape:cx="464.65837"
+     inkscape:cy="134.63103"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer9"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="836"
@@ -677,8 +677,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Step7"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="opacity:1;fill:url(#Grey);fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4242-8-9-9-8-5-7"
@@ -714,9 +713,5 @@
          style="font-size:10px"
          id="flowPara4699" /><flowPara
          style="font-size:10px"
-         id="flowPara4701">If we have organised the shipping, you should have been provided with a shipping label. Otherwise, you should have obtained one yourself. Place the shipping label into the document pouch and seal it by removing the narrow strip.</flowPara><flowPara
-         style="font-size:10px"
-         id="flowPara4603" /><flowPara
-         style="font-size:10px"
-         id="flowPara4601">Hand the package to reception or whoever it will be collected from and notify your Student Robotics contact that the package is wrapped and ready for collection.</flowPara></flowRoot>  </g>
+         id="flowPara4601">If you are organising the courier, now is the time to book the collection and obtain a shipping label. If we are organising the courier, please notify your Student Robotics contact that the package is wrapped and we will provide you with a shipping label. Place the shipping label into the document pouch and seal it by removing the narrow strip. Finally, hand the package to reception or wherever it will be collected from and notify your contact.</flowPara></flowRoot>  </g>
 </svg>
