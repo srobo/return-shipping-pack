@@ -18,8 +18,8 @@ all: $(INST_PDF) $(SR2017_LOANEXT_INST_PDF)
 $(BUILD_DIR):
 	mkdir $@
 
-$(SR2017_LOANEXT_INST_PDF): $(SR2017_LOANEXT_INST_MD)
-	pandoc -f markdown -V geometry="paper=a4paper,margin=2cm" -o $@ $<
+$(SR2017_LOANEXT_INST_PDF): $(SR2017_LOANEXT_INST_MD) $(VERSION_FILE) | $(BUILD_DIR)
+	pandoc -f markdown -V geometry="paper=a4paper,margin=2cm" -o $@ <(cat $< <(echo -e "\n [^1]: Document revision $(VERSION)"))
 
 $(INST_PDF): $(INST_SVG) $(VERSION_FILE) | $(BUILD_DIR)
 	inkscape -A $@ <(sed "s/{rev}/$(VERSION)/" $<)
