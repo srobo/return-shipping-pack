@@ -1,4 +1,4 @@
-# Loan Extension Kit Return Instructions[^1]
+# Kit Return Instructions[^1]
 
 **Before doing anything else. Please note down the 'part code' of the Really Useful Box. This can be found on the outside of the box and will be on a sticker with either a QR code or a barcode on it. You will need this later on after the box is packaged up.**
 
