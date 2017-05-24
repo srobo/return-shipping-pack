@@ -7,7 +7,7 @@ If you require any assistance, or have any questions, please contact Rich at: <l
 Please use the packaging enclosed, following the instructions provided, to package the kit.
 The 'Return Shipping Pack Instructions' are written in a generic manner, so please use the following information where appropriate:
 
-In Step 1 you are instructed to check that you have all of the parts to be returned, as specified by your Student Robotics contact. Please check that you have all of the items listed on the enclosed 'Kit List' document.
+In Step 1 of the Return Shipping Pack Instructions you are instructed to check that you have all of the parts to be returned, as specified by your Student Robotics contact. Please check that you have all of the items listed on the enclosed 'Kit List' document.
 
 Since the package contains batteries, you must use a courier that accepts them. UPS explicitly allow batteries to be transported as long as certain rules are followed. The packaging and labelling provided in this pack must be used as instructed to comply with these rules. Please use UPS (https://www.ups.com/uis/guest) to ship the kit back to us. You will need the following details:
 
